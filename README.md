@@ -38,9 +38,9 @@ This structure helps the retrieval model distinguish categories and variations m
 
 Models Used
 
-Model    	                                 Purpose
-BLIP (Salesforce/blip-image-captioning-base)	 Generates captions from images
-CLIP (openai/clip-vit-base-patch32)	         Converts text + images into vectors & finds similarity
+Model    	                                          Purpose
+BLIP (Salesforce/blip-image-captioning-base)	      Generates captions from images
+CLIP (openai/clip-vit-base-patch32)	                  Converts text + images into vectors & finds similarity
 
 Both models are transformer-based — meaning they use attention mechanisms instead of sequential processing like RNNs. This is what allows them to understand image features + textual meaning at a high level.
 
