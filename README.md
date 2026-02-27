@@ -59,8 +59,10 @@ Tech Stack
 _________________________________________________________________________________________________________________________________________
 Installation & Run
 
-git clone <repository-link>
+git clone <https://github.com/azazynd/MultiModal-AI-System/>
+
 cd multimodal-ai
+
 pip install pillow
 pip install transformers
 pip install torch
@@ -92,3 +94,4 @@ Possible Future Extensions
 	•	Add Stable Diffusion → convert text into generated images
 	•	Voice input → speech-to-text multimodality
 	•	Real-time webcam captioning
+
