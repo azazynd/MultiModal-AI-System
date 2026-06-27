@@ -1,7 +1,7 @@
 Multimodal AI — Image Captioning & Text-Based Image Retrieval
 __________________________________________________________________________________________________________________________________________
 
-✅This project demonstrates a multimodal AI system capable of understanding both visual and textual input.
+This project demonstrates a multimodal AI system capable of understanding both visual and textual input.
 It performs image → caption generation and text → image retrieval, using transformer-based models (BLIP and CLIP) through Hugging Face + PyTorch, served via Django.
 
 The goal was to build a working mini-system that connects computer vision and natural language processing in a single interface.
